@@ -18,7 +18,7 @@
     - Email: info.sashlindean@gmail.com
 
 ## 💻 Languages and tools
-Python:
+- Python:
    - Django
    - Django REST
    - Flask
@@ -28,8 +28,8 @@ Python:
    - MathPlotLib
    - sphinx
 
-Javascript:
+- Javascript:
    - React 
    - Node js
 
-Docker
+- Docker
