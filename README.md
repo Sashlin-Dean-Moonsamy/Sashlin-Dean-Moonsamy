@@ -18,19 +18,18 @@
 [![Email]](info.sashlindean@gmail.com)
 
 ## 💻 Languages and tools
-Python {
-        Django
-        Django REST
-        Flask
-        Tkinter
-        Numpy
-        Scipy
-        MathPlotLib
-}
+Python:
+   -Django
+   -Django REST
+   -Flask
+   -Tkinter
+   -Numpy
+   -Scipy
+   -MathPlotLib
+   -sphinx
+
+Javascript:
+   - React 
+   - Node js
 
 Docker
-
-Javascript {
-        React
-        Node js
-}
