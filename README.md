@@ -14,7 +14,7 @@
 - 💬 I am interested in all things Software, particularly **Web and Cloud**
 - 🎮 Talk to me about: Anime, Games and Books 
 - 📫 How to reach me: 
-[![LinkedIn](https://www.linkedin.com/in/sashlin-dean-moonsamy-303027223/)
+[![LinkedIn](https://www.linkedin.com/in/sashlin-dean-moonsamy-303027223)
 [![Email]](info.sashlindean@gmail.com)
 
 ## 💻 Languages and tools
