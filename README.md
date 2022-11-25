@@ -19,14 +19,14 @@
 
 ## 💻 Languages and tools
 Python:
-   -Django
-   -Django REST
-   -Flask
-   -Tkinter
-   -Numpy
-   -Scipy
-   -MathPlotLib
-   -sphinx
+   - Django
+   - Django REST
+   - Flask
+   - Tkinter
+   - Numpy
+   - Scipy
+   - MathPlotLib
+   - sphinx
 
 Javascript:
    - React 
