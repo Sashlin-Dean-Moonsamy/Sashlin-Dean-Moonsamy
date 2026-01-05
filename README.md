@@ -8,7 +8,7 @@
 ## ✨ _About_Me_ ✨
 
 - 😄 I am a Full-Stack Developer and a Code Mentor @[Hyperiondev](https://www.hyperiondev.com/)
-- 🔭 I’m currently working on a plan to start my own sercurity company and leaving my mark on the world | industry.
+- 🔭 I’m currently working on a plan to start my own security company and leaving my mark on the world | industry.
 - 🌱 I’m currently building Web Apps through Django.
 - 👯 I’m looking to collaborate on any and all open-source project  
 - 💬 I am interested in all things Software, particularly **Web and Cloud**
