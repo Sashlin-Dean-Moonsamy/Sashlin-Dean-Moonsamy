@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## I'm Sashlin Dean Moonsamy, a Software Engineer from Johannesburg, South Africa.
+## I'm Sashlin Dean Moonsamy, a Software Engineer from South Africa.
 
 I build scalable software systems, intelligent automation solutions, and AI-powered applications. With experience spanning full-stack development, data science, machine learning, and software engineering mentorship, I enjoy solving complex problems and delivering practical solutions that create measurable value.
 
